@@ -34,3 +34,8 @@ function addNewDept (school ,addNewDept){
   const newDeparts ={ art : {teachers:2,students:50}};
   console.log(addNewDept(school,newDeparts));
 
+
+
+
+  
+
